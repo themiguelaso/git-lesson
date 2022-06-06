@@ -1,1 +1,6 @@
 writing some example text
+
+Create my first repository
+Add a file to the repo (done)
+hands-on exercise
+pull from a remote source
